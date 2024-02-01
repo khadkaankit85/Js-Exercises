@@ -1,5 +1,5 @@
 // The Sum Selector: You are working on a function that should sum all numbers in an array until it encounters a negative number. Write a function that performs this summation.
-let mylist=[1,2,3,4,-5,6,-8,2,-10,2,20,-1,41,8,5]
+let mylist=[1,2,-3,4,-5,6,-8,2,-10,2,20,-1,41,8,5]
 let sum=0
 
 function selectedSum(numList){
